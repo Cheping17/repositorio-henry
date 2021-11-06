@@ -1,0 +1,10 @@
+Variables:
+	Las variables son palabras a las que se pueden poner valores ya sea de tipo numérico, de tipo verdadero o falso (booleano), o de tipo texto 	(string).
+Strings:
+	Así como a 101, 17, 15; se dice que son números, un valor de tipo texto de dice que es un string.
+Funciones:
+	Una función ejecuta el código específicado para evitar escribirlo todo de nuevo. Si una función utiliza una variable, esta se escribe dentro de los 	paréntesis como argumento. Para que la función retorne un resultado, se escribe la declaración return.
+Declaraciónes:
+	Una declaración es una petición que se le hace al sistema, la declaración If se utiliza para controlar si es que un código se ejecuta.
+Valores booleanos:
+	A una variable se le puede asignar un valor booleano, lo cual quiere decir que la variable es o Verdadera o Falsa.
