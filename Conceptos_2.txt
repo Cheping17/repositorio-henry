@@ -1,0 +1,7 @@
+for:
+	Es una declaración que le dice al sistema que ejecute una acción mientras una condición se cumple. Para que funcione debemos escribirle al sistema la acción a repetirse y la condición para que se repita.
+&&, ||, !
+	Son operadores lógicos que se usan para modificar el valor de verdad de una variable:
+	&&: sirve como "y" y tiene un valor de verdad solo solo cuando ambas varibles son verdad.
+	||: sirve como "o" y tiene una valor de verdad falso solo cuando ambas variables son falsas.
+	!: La negación cambia el valor de verdad de una variable, si es verdad, será falso, y si es falso, será verdad.
